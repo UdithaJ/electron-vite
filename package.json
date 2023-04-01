@@ -38,7 +38,7 @@
     "typescript": "^4.9.4",
     "vite": "^4.0.4",
     "vite-plugin-electron": "^0.11.1",
-    "vite-plugin-electron-renderer": "^0.11.4",
+    "vite-plugin-electron-renderer": "^0.13.14",
     "vite-plugin-vuetify": "^1.0.0-alpha.12",
     "vue": "^3.2.45",
     "vue-cli-plugin-vuetify": "~2.5.8",
